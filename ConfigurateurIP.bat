@@ -46,7 +46,7 @@ pause
 goto eof
 
 :choix5
-netsh interface ip set dns "Connexion au réseau local" static 172.16.43.200
+netsh interface ip set dns "Connexion au rÃ©seau local" static 172.16.43.200
 pause
 goto eof
 
